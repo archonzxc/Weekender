@@ -13,6 +13,11 @@ bin/
 gen/
 .svn/
 
+# Eclipse project files
+.project
+.metadeta/
+.settings/
+
 # Local configuration file (sdk path, etc)
 local.properties
 
